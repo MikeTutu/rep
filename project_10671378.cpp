@@ -8,7 +8,7 @@ using namespace std;
 struct student
     {
        char name[50];
-	   char lecturer[50]
+	   char lecturer[50];
        int id;
        char course[20];
        int lvl;
